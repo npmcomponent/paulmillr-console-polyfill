@@ -1,0 +1,12 @@
+{
+  "name": "paulmillr-console-polyfill",
+  "description": "Browser console polyfill. Makes it safe to do console.log()-s etc always.",
+  "version": "0.1.1",
+  "keywords": [
+    "console",
+    "polyfill"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
